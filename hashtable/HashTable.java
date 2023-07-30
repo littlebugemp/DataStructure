@@ -2,6 +2,7 @@ package hashtable;
 
 import java.util.ArrayList;
 
+/*hash table*/
 public class HashTable {
     private int size =7;
     private Node[] dataMap;

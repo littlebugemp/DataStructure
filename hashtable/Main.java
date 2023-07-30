@@ -1,5 +1,6 @@
 package hashtable;
 
+//added comment
 public class Main {
     public static void main(String[] args) {
         HashTable hashTable = new HashTable();
